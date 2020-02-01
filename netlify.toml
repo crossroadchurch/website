@@ -1,0 +1,9 @@
+[[redirects]]
+  from = '/music'
+  to = 'https://docs.google.com/spreadsheet/ccc?key=0AoKvJHRINrlbdFNVdElqUlpJZkZzakQ5NEw3QkNEV1E'
+  status = 301
+
+[[redirects]]
+  from = '/deacons/fire'
+  to = 'https://docs.google.com/spreadsheets/d/1LRwCO77oT6RPdX7bvz1RYHI7r4KDWXfS21oJ-w97P40/edit?usp=sharing'
+  status = 301
