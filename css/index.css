@@ -1,0 +1,190 @@
+/**
+  CSS written by Jesse Sibley
+*/
+
+@import url(https://fonts.googleapis.com/css?family=Vollkorn:400italic);
+
+:root {
+  font-size: 16px;
+}
+
+body {
+  color: #222;
+}
+
+p {
+  color: #222;
+  font-size: 1rem;
+}
+
+h4 {
+  margin-bottom: 2em;
+}
+
+.navbar-brand {
+  font-weight: normal;
+  font-size: 1.5rem !important;
+}
+
+#headerwrap {
+  background-image: url(../img/new_seaton.jpg);
+  background-position: center center !important;
+}
+
+#twrapback {
+  color: #fff !important;
+  background-image: url(../img/baptism.JPG);
+  background-size: cover;
+  background-position: center center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#swrapback {
+  color: #fff !important;
+  background-image: url(../img/raw/DSC_0321.JPG);
+  background-size: cover;
+  background-position: center center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.moto {
+  font-family: Raleway, sans-serif;
+  font-size: 3rem;
+  font-weight: lighter;
+  color: #fff;
+}
+
+@media (max-width: 800px) {
+  #ppp {
+    font-size: 2.5rem;
+  }
+}
+
+@media (max-width: 400px) {
+  #ppp {
+    font-size: 2rem;
+  }
+}
+
+#service {
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+.hc-heading {
+  font-family: Roboto, Open Sans, sans-serif;
+  font-weight: 300;
+  font-size: 2.8rem;
+  color: #222;
+  text-align: center;
+}
+
+.hc-lead-strong {
+  font-family: Roboto, Open Sans, sans-serif;
+  font-weight: 300;
+  font-size: 1.6rem;
+  color: #444;
+  margin-bottom: 1em;
+  line-height: 1em;
+}
+
+.hc-lead {
+  font-family: Roboto, Open Sans, sans-serif;
+  font-weight: 300;
+  font-size: 1rem;
+  color: #444;
+}
+
+.hc-divider {
+  display: block;
+  width: 5em;
+  height: 0.3em;
+  background: #AAA;
+  margin: 2em auto;
+}
+
+.hc-round-img {
+  width: 200px;
+  height: 200px;
+  background: #AAA;
+  border-radius: 100px;
+  -moz-border-radius: 100px;
+  margin: 2em auto;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.hc-img-cap {
+  font-size: 1rem;
+  text-align: justify;
+}
+
+.mid-box-content {
+  padding: 1em;
+}
+
+#mid-box {
+  overflow: hidden;
+}
+
+#mid-box-one {
+  padding-bottom: 1em;
+  min-height: 20em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+
+#mid-box-two {
+  background-color: #0480F0;
+  box-sizing: border-box;
+  color: #fff;
+  padding-bottom: 1em;
+  min-height: 20em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+a {
+  color: inherit;
+}
+
+.hc-btn-outline {
+  color: #222 !important;
+}
+
+.hc-btn-outline {
+  background: #fff;
+  border: 2px solid #0480F0;
+  padding: 0.5em 1em;
+  margin-top: 0.5rem;
+  display: inline-block;
+}
+
+.hc-btn-outline:hover {
+  color: #222;
+}
+
+.hc-btn-outline-light {
+  background: #0480F0;
+  border: 2px solid #fff;
+  padding: 0.5em 1em;
+}
+
+/** Mobile Hero Images **/
+@media (max-width: 768px) {
+  #headerwrap {
+    min-height: 25em;
+  }
+
+  #twrapback {
+    background-attachment: scroll;
+  }
+}

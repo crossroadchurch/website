@@ -1,0 +1,76 @@
+{
+    "podcasts": [
+        {
+            "title": "The Further Wanderings of the Children of Israel - Part 10",
+            "artist": "Robert Spiller",
+            "mp3": "./talks/2019-12-12.mp3",
+            "free": true,
+            "date": "12/12/2019",
+            "poster": "./posters/ccf.jpg"
+        },
+        {
+            "title": "The Further Wanderings of the Children of Israel - Part 8",
+            "artist": "Robert Spiller",
+            "mp3": "./talks/2019-11-14.mp3",
+            "free": true,
+            "date": "14/11/2019",
+            "poster": "./posters/ccf.jpg"
+        },
+        {
+            "title": "The Further Wanderings of the Children of Israel - Part 7",
+            "artist": "Robert Spiller",
+            "mp3": "./talks/2019-11-07.mp3",
+            "free": true,
+            "date": "07/11/2019",
+            "poster": "./posters/ccf.jpg"
+        },
+        {
+            "title": "The Further Wanderings of the Children of Israel - Part 6",
+            "artist": "Robert Spiller",
+            "mp3": "./talks/2019-10-31.mp3",
+            "free": true,
+            "date": "31/10/2019",
+            "poster": "./posters/ccf.jpg"
+        },
+        {
+            "title": "The Further Wanderings of the Children of Israel - Part 5",
+            "artist": "Robert Spiller",
+            "mp3": "./talks/2019-10-24.mp3",
+            "free": true,
+            "date": "24/10/2019",
+            "poster": "./posters/ccf.jpg"
+        },
+        {
+            "title": "The Further Wanderings of the Children of Israel - Part 4",
+            "artist": "Robert Spiller",
+            "mp3": "./talks/2019-10-17.mp3",
+            "free": true,
+            "date": "17/10/2019",
+            "poster": "./posters/ccf.jpg"
+        },
+        {
+            "title": "The Further Wanderings of the Children of Israel - Part 3",
+            "artist": "Robert Spiller",
+            "mp3": "./talks/2019-10-10.mp3",
+            "free": true,
+            "date": "10/10/2019",
+            "poster": "./posters/ccf.jpg"
+        },
+        {
+            "title": "The Further Wanderings of the Children of Israel - Part 2",
+            "artist": "Robert Spiller",
+            "mp3": "./talks/2019-10-03.mp3",
+            "free": true,
+            "date": "03/10/2019",
+            "poster": "./posters/ccf.jpg"
+        },
+        {
+            "title": "The Further Wanderings of the Children of Israel - Part 1",
+            "artist": "Robert Spiller",
+            "mp3": "./talks/2019-09-26.mp3",
+            "free": true,
+            "date": "26/09/2019",
+            "poster": "./posters/ccf.jpg"
+        }
+    ]
+}

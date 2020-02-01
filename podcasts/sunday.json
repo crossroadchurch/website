@@ -1,0 +1,92 @@
+{
+    "podcasts": [
+        {
+            "title": "The Wilderness Years - Part 22",
+            "artist": "Robert Spiller",
+            "mp3": "./talks/2019-12-15.mp3",
+            "free": true,
+            "date": "15/12/2019",
+            "poster": "./posters/ccf.jpg"
+        },
+        {
+            "title": "The Wilderness Years - Part 21",
+            "artist": "Louise Sibley",
+            "mp3": "./talks/2019-12-08.mp3",
+            "free": true,
+            "date": "08/12/2019",
+            "poster": "./posters/ccf.jpg"
+        },
+        {
+            "title": "Moses meeting with God",
+            "artist": "Jon Sibley",
+            "mp3": "./talks/2019-11-24.mp3",
+            "free": true,
+            "date": "24/11/2019",
+            "poster": "./posters/ccf.jpg"
+        },
+        {
+            "title": "Have you been found in Jesus?",
+            "artist": "Robert Spiller",
+            "mp3": "./talks/2019-11-17.mp3",
+            "free": true,
+            "date": "17/11/2019",
+            "poster": "./posters/ccf.jpg"
+        },
+        {
+            "title": "The Wilderness Years - Part 19",
+            "artist": "Jerry Gosling",
+            "mp3": "./talks/2019-11-10.mp3",
+            "free": true,
+            "date": "10/11/2019",
+            "poster": "./posters/ccf.jpg"
+        },
+        {
+            "title": "The Wilderness Years - Part 18",
+            "artist": "Jon Sibley",
+            "mp3": "./talks/2019-11-03.mp3",
+            "free": true,
+            "date": "03/11/2019",
+            "poster": "./posters/ccf.jpg"
+        },
+        {
+            "title": "The Wilderness Years - Part 14",
+            "artist": "Andrew Sibley",
+            "mp3": "./talks/2019-10-13.mp3",
+            "free": true,
+            "date": "13/10/2019",
+            "poster": "./posters/ccf.jpg"
+        },
+        {
+            "title": "The Wilderness Years - Part 13",
+            "artist": "Robert Spiller",
+            "mp3": "./talks/2019-10-06.mp3",
+            "free": true,
+            "date": "06/10/2019",
+            "poster": "./posters/ccf.jpg"
+        },
+        {
+            "title": "The Wilderness Years - Part 12",
+            "artist": "Jon Sibley",
+            "mp3": "./talks/2019-09-29.mp3",
+            "free": true,
+            "date": "29/09/2019",
+            "poster": "./posters/ccf.jpg"
+        },
+        {
+            "title": "The Wilderness Years - Part 11",
+            "artist": "Jibu Varghese",
+            "mp3": "./talks/2019-09-22.mp3",
+            "free": true,
+            "date": "22/09/2019",
+            "poster": "./posters/ccf.jpg"
+        },
+        {
+            "title": "The Wilderness Years - Part 10",
+            "artist": "Louise Sibley",
+            "mp3": "./talks/2019-09-15.mp3",
+            "free": true,
+            "date": "15/09/2019",
+            "poster": "./posters/ccf.jpg"
+        }
+    ]
+}
