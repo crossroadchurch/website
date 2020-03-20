@@ -103,14 +103,14 @@ h4 {
   display: block;
   width: 5em;
   height: 0.3em;
-  background: #AAA;
+  background: #aaa;
   margin: 2em auto;
 }
 
 .hc-round-img {
   width: 200px;
   height: 200px;
-  background: #AAA;
+  background: #aaa;
   border-radius: 100px;
   -moz-border-radius: 100px;
   margin: 2em auto;
@@ -142,7 +142,7 @@ h4 {
 }
 
 #mid-box-two {
-  background-color: #0480F0;
+  background-color: #0480f0;
   box-sizing: border-box;
   color: #fff;
   padding-bottom: 1em;
@@ -162,7 +162,7 @@ a {
 
 .hc-btn-outline {
   background: #fff;
-  border: 2px solid #0480F0;
+  border: 2px solid #0480f0;
   padding: 0.5em 1em;
   margin-top: 0.5rem;
   display: inline-block;
@@ -173,9 +173,15 @@ a {
 }
 
 .hc-btn-outline-light {
-  background: #0480F0;
+  background: #0480f0;
   border: 2px solid #fff;
   padding: 0.5em 1em;
+}
+
+#special-banner {
+  background: orange;
+  padding: 0.5em 1em;
+  text-align: center;
 }
 
 /** Mobile Hero Images **/
