@@ -92,6 +92,15 @@ h4 {
   line-height: 1em;
 }
 
+.hc-lead-strong-wider {
+  font-family: Roboto, Open Sans, sans-serif;
+  font-weight: 300;
+  font-size: 1.6rem;
+  color: #444;
+  margin-bottom: 0;
+  line-height: 1.5em;
+}
+
 .hc-lead {
   font-family: Roboto, Open Sans, sans-serif;
   font-weight: 300;
@@ -165,6 +174,16 @@ a {
   border: 2px solid #0480f0;
   padding: 0.5em 1em;
   margin-top: 0.5rem;
+  display: inline-block;
+}
+
+.hc-btn-outline-large {
+  background: #fff;
+  border: 2px solid #0480f0;
+  padding: 0.5em 1em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  font-size: 1.25rem;
   display: inline-block;
 }
 
