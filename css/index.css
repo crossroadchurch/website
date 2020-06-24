@@ -108,6 +108,15 @@ h4 {
   color: #444;
 }
 
+.hc-lead-wider {
+  font-family: Roboto, Open Sans, sans-serif;
+  font-weight: 300;
+  font-size: 1rem;
+  color: #444;
+  margin-bottom: 0;
+  line-height: 1.5em;
+}
+
 .hc-divider {
   display: block;
   width: 5em;
