@@ -7,3 +7,13 @@
   from = '/deacons/fire'
   to = 'https://docs.google.com/spreadsheets/d/1LRwCO77oT6RPdX7bvz1RYHI7r4KDWXfS21oJ-w97P40/edit?usp=sharing'
   status = 301
+
+[[redirects]]
+  from = '/midweek'
+  to = 'https://www.youtube.com/playlist?list=PLrbxTXJcHqjt30bSL90WNKAijuQ9g9XQ0'
+  status = 301
+
+[[redirects]]
+  from = '/sunday'
+  to = 'https://crossroad-live.netlify.app/'
+  status = 301
