@@ -17,3 +17,8 @@
   from = '/sunday'
   to = 'https://crossroad-live.netlify.app/'
   status = 301
+
+[[redirects]]
+  from = '/prayer'
+  to = 'https://crossroad-live.netlify.app/prayer'
+  status = 301
