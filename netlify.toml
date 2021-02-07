@@ -22,3 +22,18 @@
   from = '/prayer'
   to = 'https://crossroad-live.netlify.app/prayer'
   status = 301
+
+[[redirects]]
+  from = '/rachel-carter'
+  to = 'https://youtu.be/apLEDSeU_mE'
+  status = 301
+
+[[redirects]]
+  from = '/rachelcarter'
+  to = 'https://youtu.be/apLEDSeU_mE'
+  status = 301
+
+[[redirects]]
+  from = 'rachel_carter'
+  to = 'https://youtu.be/apLEDSeU_mE'
+  status = 301
