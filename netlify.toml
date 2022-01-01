@@ -22,8 +22,3 @@
   from = '/prayer'
   to = 'https://crossroad-live.netlify.app/prayer'
   status = 301
-
-[[redirects]]
-  from = '/carols'
-  to = 'https://crossroad.org.uk/carols.html'
-  status = 301
