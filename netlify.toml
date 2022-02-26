@@ -20,5 +20,5 @@
 
 [[redirects]]
   from = '/prayer'
-  to = 'https://crossroad-live.netlify.app/prayer'
+  to = 'https://crossroad-live.netlify.app/prayer.html'
   status = 301
