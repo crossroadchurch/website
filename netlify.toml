@@ -22,3 +22,8 @@
   from = '/prayer'
   to = 'https://crossroad-live.netlify.app/prayer.html'
   status = 301
+
+[[redirects]]
+  from = '/polartest'
+  to= 'https://kidsclub.me/signup/9f4b6c7b-7edf-469b-b2a9-6feb9ab81ba1'
+  status = 301
