@@ -24,6 +24,6 @@
   status = 301
 
 [[redirects]]
-  from = '/polartest'
-  to= 'https://kidsclub.me/signup/9f4b6c7b-7edf-469b-b2a9-6feb9ab81ba1'
+  from = '/polar-explorers'
+  to= 'https://kidsclub.me/signup/9f57b050-3bd8-4490-b3f5-9d909694fd36'
   status = 301
