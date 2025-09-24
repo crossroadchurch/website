@@ -1,16 +1,6 @@
 [[redirects]]
-  from = '/music'
-  to = 'https://docs.google.com/spreadsheet/ccc?key=0AoKvJHRINrlbdFNVdElqUlpJZkZzakQ5NEw3QkNEV1E'
-  status = 301
-
-[[redirects]]
   from = '/deacons/fire'
   to = 'https://docs.google.com/spreadsheets/d/1LRwCO77oT6RPdX7bvz1RYHI7r4KDWXfS21oJ-w97P40/edit?usp=sharing'
-  status = 301
-
-[[redirects]]
-  from = '/midweek'
-  to = 'https://www.youtube.com/playlist?list=PLrbxTXJcHqjt30bSL90WNKAijuQ9g9XQ0'
   status = 301
 
 [[redirects]]
@@ -21,9 +11,4 @@
 [[redirects]]
   from = '/prayer'
   to = 'https://crossroad-live.netlify.app/prayer.html'
-  status = 301
-
-[[redirects]]
-  from = '/polar-explorers'
-  to= 'https://kidsclub.me/signup/9f57b050-3bd8-4490-b3f5-9d909694fd36'
   status = 301
